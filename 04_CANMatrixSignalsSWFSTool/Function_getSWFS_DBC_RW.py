@@ -2,7 +2,6 @@
 """
 Created on Wed Apr 10 09:34:09 2019
 
-@author: wny9szh
 """
 import re
 import xlwt
